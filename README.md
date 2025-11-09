@@ -1,7 +1,7 @@
 # Single Cycle MIPS Processor
 
-A Verilog-based implementation of a **Single-Cycle MIPS Processor** supporting arithmetic, memory, logical, and branching instructions.  
-The project demonstrates a complete design flow — from instruction execution and control unit design to simulation and verification using test programs.
+An implementation of a **Single-Cycle MIPS Processor** on Logisim, supporting arithmetic, memory, logical, and branching instructions.  
+The project demonstrates a complete design flow, from instruction execution and control unit design to simulation and verification using test programs.
 
 ---
 
